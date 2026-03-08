@@ -1,0 +1,10 @@
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\bin\Debug\Huerto_Activity4.exe.config
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\bin\Debug\Huerto_Activity4.exe
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\bin\Debug\Huerto_Activity4.pdb
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\obj\Debug\Huerto_Activity4.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\obj\Debug\Huerto_Activity4.Form1.resources
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\obj\Debug\Huerto_Activity4.Properties.Resources.resources
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\obj\Debug\Huerto_Activity4.csproj.GenerateResource.cache
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\obj\Debug\Huerto_Activity4.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\obj\Debug\Huerto_Activity4.exe
+C:\Users\win\source\repos\Huerto_Activity4\Huerto_Activity4\obj\Debug\Huerto_Activity4.pdb
